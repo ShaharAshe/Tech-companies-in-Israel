@@ -1,0 +1,265 @@
+
+---
+
+- [Google Careers](https://careers.google.com/)
+- [Microsoft Careers](https://careers.microsoft.com/)
+- [Apple Careers](https://www.apple.com/careers/)
+- [Amazon Jobs](https://www.amazon.jobs/)
+- [Facebook Careers (Meta)](https://www.metacareers.com/)
+- [IBM Careers](https://www.ibm.com/employment/)
+- [Intel Careers](https://jobs.intel.com/)
+- [Tesla Careers](https://www.tesla.com/careers)
+- [Airbnb Careers](https://careers.airbnb.com/)
+- [Uber Careers](https://www.uber.com/careers/)
+- [Lyft Careers](https://www.lyft.com/careers)
+- [Stripe Careers](https://stripe.com/jobs)
+- [Slack Careers](https://slack.com/careers)
+- [Zoom Careers](https://zoom.us/careers)
+- [Palantir Careers](https://www.palantir.com/careers/)
+- [Electronic Arts (EA) Careers](https://www.ea.com/careers)
+- [Ubisoft Careers](https://www.ubisoft.com/en-us/company/careers)
+- [Blizzard Entertainment Careers](https://careers.blizzard.com/)
+- [Riot Games Careers](https://www.riotgames.com/en/work-with-us)
+- [Wix Careers](https://www.wix.com/jobs/home)
+- [Check Point Careers](https://careers.checkpoint.com/)
+- [Mobileye Careers](https://www.mobileye.com/en-us/careers/)
+- [Taboola Careers](https://www.taboola.com/careers)
+- [Outbrain Careers](https://www.outbrain.com/careers/)
+- [Playtika Careers](https://www.playtika.com/careers/)
+- [Shopify Careers](https://www.shopify.com/careers)
+- [Salesforce Careers](https://www.salesforce.com/company/careers/)
+- [Adobe Careers](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced)
+- [Oracle Careers](https://www.oracle.com/corporate/careers/)
+- [Cisco Careers](https://jobs.cisco.com/)
+- [Nokia Careers](https://www.nokia.com/careers/)
+- [Qualcomm Careers](https://www.qualcomm.com/company/careers)
+- [SAP Careers](https://www.sap.com/about/careers.html)
+- [ServiceNow Careers](https://www.servicenow.com/careers.html)
+- [Red Hat Careers](https://www.redhat.com/en/jobs)
+- [Atlassian Careers](https://www.atlassian.com/company/careers)
+- [Snowflake Careers](https://www.snowflake.com/careers/)
+- [Elastic Careers](https://www.elastic.co/about/careers)
+- [Splunk Careers](https://www.splunk.com/en_us/careers.html)
+- [Stripe Careers](https://stripe.com/jobs)
+- [DoorDash Careers](https://www.doordash.com/careers/)
+- [Robinhood Careers](https://robinhood.com/careers)
+- [GitLab Careers](https://about.gitlab.com/jobs/)
+- [Naughty Dog Careers](https://www.naughtydog.com/careers)
+- [Epic Games Careers](https://www.epicgames.com/site/en-US/careers)
+- [Unity Technologies Careers](https://careers.unity.com/)
+- [Juniper Networks Careers](https://www.juniper.net/us/en/company/careers/)
+- [Hewlett Packard Enterprise (HPE) Careers](https://www.hpe.com/us/en/careers.html)
+- [Arista Networks Careers](https://www.arista.com/en/careers)
+- [Etsy Careers](https://www.etsy.com/careers)
+- [Rakuten Careers](https://global.rakuten.com/corp/careers/)
+- [Zalando Careers](https://corporate.zalando.com/en/careers)
+- [Tencent Careers](https://www.tencent.com/en-us/careers.html)
+- [Samsung Careers](https://www.samsung.com/us/careers/)
+- [Huawei Careers](https://career.huawei.com/reccampportal/portal/)
+- [Intel Careers](https://jobs.intel.com/)
+- [Google Careers](https://careers.google.com/locations/tel-aviv/)
+- [Microsoft Careers](https://careers.microsoft.com/us/en/israel)
+- [Apple Careers](https://www.apple.com/careers/)
+- [Amazon AWS Careers](https://www.amazon.jobs/en/teams/aws)
+- [Facebook (Meta) Careers](https://www.metacareers.com/)
+- [Nvidia Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
+- [IBM Careers](https://www.ibm.com/employment/)
+- [Mobileye Careers](https://www.mobileye.com/en-us/careers/)
+- [Check Point Careers](https://careers.checkpoint.com/)
+- [Wix Careers](https://www.wix.com/jobs/home)
+- [Taboola Careers](https://www.taboola.com/careers)
+- [Outbrain Careers](https://www.outbrain.com/careers/)
+- [Amdocs Careers](https://www.amdocs.com/careers)
+- [Playtika Careers](https://www.playtika.com/careers/)
+- [Nice Systems Careers](https://www.nice.com/careers/)
+- [CyberArk Careers](https://www.cyberark.com/careers/)
+- [Radware Careers](https://www.radware.com/careers/)
+- [Fiverr Careers](https://www.fiverr.com/jobs)
+- [SolarEdge Careers](https://www.solaredge.com/corporate/join-us)
+- [Teva Pharmaceuticals Careers](https://careers.tevapharm.com/)
+- [Jfrog Careers](https://jfrog.com/jfrog-careers/)
+- [Lightricks Careers](https://www.lightricks.com/careers)
+- [Sisense Careers](https://www.sisense.com/company/careers/)
+- [Monday.com Careers](https://monday.com/careers)
+- [OrCam Careers](https://www.orcam.com/en/careers/)
+- [Via Transportation Careers](https://ridewithvia.com/careers/)
+- [Viber Careers](https://www.viber.com/careers/)
+- [Intel Careers](https://jobs.intel.com/)
+- [Philips Careers](https://www.careers.philips.com/)
+- [Western Digital Careers](https://jobs.westerndigital.com/)
+- [HP Careers](https://jobs.hp.com/)
+- [Marvell Careers](https://www.marvell.com/company/careers.html)
+- [SAP Careers](https://jobs.sap.com/)
+- [Salesforce Careers](https://www.salesforce.com/company/careers/)
+- [Oracle Careers](https://www.oracle.com/corporate/careers/)
+- [Dell Technologies Careers](https://jobs.dell.com/)
+- [VMware Careers](https://careers.vmware.com/)
+- [Cisco Careers](https://jobs.cisco.com/)
+- [Broadcom Careers](https://careers.broadcom.com/)
+- [Juniper Networks Careers](https://careers.juniper.net/)
+- [Palo Alto Networks Careers](https://www.paloaltonetworks.com/company/careers)
+- [Qualcomm Careers](https://www.qualcomm.com/company/careers)
+- [IBM Research Careers](https://www.research.ibm.com/careers/)
+- [Elbit Systems Careers](https://www.elbitsystems.com/careers/)
+- [Israel Aerospace Industries (IAI) Careers](https://www.iai.co.il/careers)
+- [Tower Semiconductor Careers](https://towersemi.com/careers/)
+- [Nova Measuring Instruments Careers](https://www.novami.com/careers/)
+- [Mellanox Technologies Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
+- [SodaStream Careers](https://www.sodastream.com/en-us/careers)
+- [Strauss Group Careers](https://careers.strauss-group.com/)
+- [Given Imaging Careers](https://www.medtronic.com/us-en/about/careers.html)
+- [IronSource Careers](https://www.ironsrc.com/careers/)
+- [Riskified Careers](https://www.riskified.com/careers/)
+- [Iron Dome (Rafael Advanced Defense Systems) Careers](https://www.rafael.co.il/careers/)
+- [MeMed Careers](https://www.me-med.com/careers/)
+- [Waze Careers](https://www.waze.com/careers)
+- [eToro Careers](https://www.etoro.com/about/careers/)
+- [SimilarWeb Careers](https://www.similarweb.com/corp/careers/)
+- [Cyberbit Careers](https://www.cyberbit.com/company/careers/)
+- [Airobotics Careers](https://www.airoboticsdrones.com/careers/)
+- [OurCrowd Careers](https://www.ourcrowd.com/careers/)
+- [Nanit Careers](https://www.nanit.com/about-us/careers/)
+- [SentinelOne Careers](https://www.sentinelone.com/careers/)
+- [Lemonade Careers](https://www.lemonade.com/careers)
+- [Moovit Careers](https://moovit.com/careers)
+- [Analog Devices Careers](https://www.analog.com/en/about-adi/careers.html)
+- [Philips Healthcare Careers](https://www.philips.com/a-w/about/healthcare-careers.html)
+- [Motorola Solutions Careers](https://careers.motorolasolutions.com/)
+- [Texas Instruments Careers](https://careers.ti.com/)
+- [SAP Labs Israel Careers](https://jobs.sap.com/)
+- [BioLineRx Careers](https://www.biolinerx.com/default.asp?pageid=57)
+- [Teva Pharmaceuticals Careers](https://careers.tevapharm.com/)
+- [Mazor Robotics Careers](https://www.mazorrobotics.com/careers/)
+- [Kamada Careers](https://www.kamada.com/careers/)
+- [Autodesk Careers](https://www.autodesk.com/careers)
+- [Honeywell Careers](https://careers.honeywell.com/)
+- [VMware Careers](https://careers.vmware.com/)
+- [Hitachi Vantara Careers](https://careers.hitachivantara.com/)
+- [Western Digital Careers](https://careers.westerndigital.com/)
+- [Micron Technology Careers](https://www.micron.com/careers)
+- [PTC Careers](https://www.ptc.com/en/careers)
+- [Ciena Careers](https://www.ciena.com/about/careers/)
+- [Fortinet Careers](https://www.fortinet.com/careers)
+- [Splunk Careers](https://www.splunk.com/en_us/careers.html)
+- [Zebra Technologies Careers](https://www.zebra.com/us/en/about-zebra/company-information/careers.html)
+- [Teradata Careers](https://careers.teradata.com/)
+- [F5 Networks Careers](https://f5.com/company/careers)
+- [CrowdStrike Careers](https://www.crowdstrike.com/careers/)
+- [NICE Systems Careers](https://www.nice.com/careers/)
+- [SolarEdge Technologies Careers](https://www.solaredge.com/us/corporate/careers)
+- [Elron Ventures Careers](https://www.elron.com/careers/)
+- [Gett Careers](https://gett.com/careers/)
+- [Infinidat Careers](https://www.infinidat.com/en/careers)
+- [Skyline AI Careers](https://www.skyline.ai/careers)
+- [WalkMe Careers](https://www.walkme.com/careers/)
+- [Claroty Careers](https://claroty.com/careers)
+- [Yotpo Careers](https://www.yotpo.com/careers/)
+- [Valens Semiconductor Careers](https://www.valens.com/careers/)
+- [Run:AI Careers](https://www.run.ai/careers/)
+- [Loom Systems Careers](https://www.loomsystems.com/careers)
+- [Weka.io Careers](https://www.weka.io/company/careers/)
+- [Logz.io Careers](https://logz.io/careers/)
+- [Syte Careers](https://www.syte.ai/careers/)
+- [Trax Careers](https://www.traxretail.com/company/careers/)
+- [Glassbox Careers](https://glassbox.com/careers/)
+- [Anodot Careers](https://www.anodot.com/careers/)
+- [Applitools Careers](https://applitools.com/careers/)
+- [Foresight Autonomous Holdings Careers](https://www.foresightauto.com/careers/)
+- [ARM Holdings Careers](https://careers.arm.com/)
+- [Analog Devices Careers](https://careers.analog.com/)
+- [Rockwell Automation Careers](https://careers.rockwellautomation.com/)
+- [Dassault Systèmes Careers](https://careers.3ds.com/)
+- [Emerson Electric Careers](https://emerson.taleo.net/careersection/ex/jobsearch.ftl)
+- [Keysight Technologies Careers](https://jobs.keysight.com/)
+- [Schneider Electric Careers](https://www.se.com/ww/en/about-us/careers/)
+- [Texas Instruments Careers](https://careers.ti.com/)
+- [Infineon Technologies Careers](https://www.infineon.com/cms/en/careers/)
+- [Xilinx Careers](https://careers.xilinx.com/)
+- [MeMed Careers](https://www.me-med.com/careers/)
+- [Gamida Cell Careers](https://www.gamida-cell.com/careers/)
+- [RedHill Biopharma Careers](https://www.redhillbio.com/)
+- [Compugen Careers](https://www.cgen.com/careers/)
+- [Can-Fite BioPharma Careers](http://www.canfite.com/careers.php)
+- [BioCatch Careers](https://www.biocatch.com/careers)
+- [BrainsWay Careers](https://www.brainsway.com/careers/)
+- [IAI (Israel Aerospace Industries) Careers](https://www.iai.co.il/careers)
+- [Rafael Advanced Defense Systems Careers](https://www.rafael.co.il/careers/)
+- [Elbit Systems Careers](https://elbitsystems.com/careers/)
+
+- NSO Group
+- BigPanda
+- Checkmarx
+- Snyk
+- Varonis
+- Kaltura
+- Redis Labs
+- Perion Network
+- Bringg
+- ThetaRay
+- Traiana
+- Innoviz Technologies
+- Gloat
+- WhiteSource (now Mend)
+- AppsFlyer
+- Rapyd
+- Guardicore
+- Illusive Networks
+- Duda
+- BioCatch
+- Verint
+- Optimove
+- Zebra Medical Vision
+- Applause
+- Trigo
+- Papaya Global
+- JoyTunes
+- Gong.io
+- Vayyar Imaging
+- Tipalti
+- Cybereason
+- Yotpo
+- Cato Networks
+- Lumenis
+- Fundbox
+- Tufin
+- InSightec
+- Sapiens
+- NeuroBlade
+- Arbe Robotics
+- OpenWeb
+- Simplee
+- Apiiro
+- Aqua Security
+- SimilarTech
+- Taranis
+- Aidoc
+- Trigo Vision
+- Nexar
+- DriveNets
+- Bizzabo
+- Kaminario
+- PerimeterX
+- GuardKnox
+- Argus Cyber Security
+- StoreDot
+- MyHeritage
+- Vdoo
+- Voyager Labs
+- Orca Security
+- BigID
+- Forter
+- Hailo
+- Coralogix
+- Cylus
+- Verbit
+- Plarium
+- Qwilt
+- ReWalk Robotics
+- Melio
+- Arbe
+- CyCognito
+- Noogata
+- Windward
+- Innovid
+
+---
