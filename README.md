@@ -46,48 +46,31 @@
 - [Marvell](https://www.marvell.com/company/careers.html)
 - [Broadcom](https://www.broadcom.com/company/careers)
 - [Palo Alto Networks](https://jobs.paloaltonetworks.com/)
----
-- [Elbit Systems Careers](https://www.elbitsystems.com/careers/)
-- [Israel Aerospace Industries (IAI) Careers](https://www.iai.co.il/careers)
-- [Tower Semiconductor Careers](https://towersemi.com/careers/)
+- [Elbit Systems Careers](https://elbitsystems.com/careers/)
+- [Israel Aerospace Industries (IAI) Careers](https://jobs.iai.co.il/)
+- [Tower Semiconductor Careers](https://careers.towersemi.com/)
 - [Nova Measuring Instruments Careers](https://www.novami.com/careers/)
-- [Mellanox Technologies Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
-- [SodaStream Careers](https://www.sodastream.com/en-us/careers)
-- [Strauss Group Careers](https://careers.strauss-group.com/)
-- [Given Imaging Careers](https://www.medtronic.com/us-en/about/careers.html)
-- [IronSource Careers](https://www.ironsrc.com/careers/)
+- [medtronic Careers](https://www.medtronic.com/il-he/our-company/careers.html)
 - [Riskified Careers](https://www.riskified.com/careers/)
-- [Rafael Advanced Defense Systems Careers](https://www.rafael.co.il/careers/)
-- [MeMed Careers](https://www.me-med.com/careers/)
-- [Waze Careers](https://www.waze.com/careers)
+- [Rafael Careers](https://career.rafael.co.il/)
+- [MeMed Careers](https://www.me-med.com/careers-2/)
 - [eToro Careers](https://www.etoro.com/about/careers/)
 - [SimilarWeb Careers](https://www.similarweb.com/corp/careers/)
 - [Cyberbit Careers](https://www.cyberbit.com/company/careers/)
-- [Airobotics Careers](https://www.airoboticsdrones.com/careers/)
-- [OurCrowd Careers](https://www.ourcrowd.com/careers/)
-- [Nanit Careers](https://www.nanit.com/about-us/careers/)
-- [SentinelOne Careers](https://www.sentinelone.com/careers/)
-- [Lemonade Careers](https://www.lemonade.com/careers)
-- [Moovit Careers](https://moovit.com/careers)
-- [Analog Devices Careers](https://www.analog.com/en/about-adi/careers.html)
-- [Motorola Solutions Careers](https://careers.motorolasolutions.com/)
+- [Airobotics Careers](https://www.airoboticsdrones.com/contact-us/)
+- [Nanit Careers](https://www.nanit.com/pages/careers)
+- [SentinelOne Careers](https://www.sentinelone.com/jobs/)
+- [Lemonade Careers](https://makers.lemonade.com/)
+- [Moovit Careers](https://moovit.com/careers/)
 - [Texas Instruments Careers](https://careers.ti.com/)
-- [BioLineRx Careers](https://www.biolinerx.com/default.asp?pageid=57)
-- [Mazor Robotics Careers](https://www.mazorrobotics.com/careers/)
-- [Kamada Careers](https://www.kamada.com/careers/)
-- [Autodesk Careers](https://www.autodesk.com/careers)
-- [Honeywell Careers](https://careers.honeywell.com/)
-- [Hitachi Vantara Careers](https://careers.hitachivantara.com/)
-- [Micron Technology Careers](https://www.micron.com/careers)
+- [Autodesk Careers](https://www.autodesk.com/careers/)
 - [PTC Careers](https://www.ptc.com/en/careers)
-- [Ciena Careers](https://www.ciena.com/about/careers/)
-- [Fortinet Careers](https://www.fortinet.com/careers)
-- [Zebra Technologies Careers](https://www.zebra.com/us/en/about-zebra/company-information/careers.html)
-- [Teradata Careers](https://careers.teradata.com/)
-- [F5 Networks Careers](https://f5.com/company/careers)
+- [Fortinet Careers](https://www.fortinet.com/corporate/careers)
+- [F5 Networks Careers](https://www.f5.com/company/careers)
 - [CrowdStrike Careers](https://www.crowdstrike.com/careers/)
-- [Elron Ventures Careers](https://www.elron.com/careers/)
-- [Gett Careers](https://gett.com/careers/)
+- [Elron Ventures Careers](https://careers.elronventures.com/jobs)
+- [Gett Careers](https://www.gett.com/careers/)
+---
 - [Infinidat Careers](https://www.infinidat.com/en/careers)
 - [Skyline AI Careers](https://www.skyline.ai/careers)
 - [WalkMe Careers](https://www.walkme.com/careers/)
@@ -118,79 +101,5 @@
 - [Can-Fite BioPharma Careers](http://www.canfite.com/careers.php)
 - [BioCatch Careers](https://www.biocatch.com/careers)
 - [BrainsWay Careers](https://www.brainsway.com/careers/)
-
-- NSO Group
-- BigPanda
-- Checkmarx
-- Snyk
-- Varonis
-- Kaltura
-- Redis Labs
-- Perion Network
-- Bringg
-- ThetaRay
-- Traiana
-- Innoviz Technologies
-- Gloat
-- WhiteSource (now Mend)
-- AppsFlyer
-- Rapyd
-- Guardicore
-- Illusive Networks
-- Duda
-- Verint
-- Optimove
-- Zebra Medical Vision
-- Applause
-- Trigo
-- Papaya Global
-- JoyTunes
-- Gong.io
-- Vayyar Imaging
-- Tipalti
-- Cybereason
-- Cato Networks
-- Lumenis
-- Fundbox
-- Tufin
-- InSightec
-- Sapiens
-- NeuroBlade
-- Arbe Robotics
-- OpenWeb
-- Simplee
-- Apiiro
-- Aqua Security
-- SimilarTech
-- Taranis
-- Aidoc
-- Trigo Vision
-- Nexar
-- DriveNets
-- Bizzabo
-- Kaminario
-- PerimeterX
-- GuardKnox
-- Argus Cyber Security
-- StoreDot
-- MyHeritage
-- Vdoo
-- Voyager Labs
-- Orca Security
-- BigID
-- Forter
-- Hailo
-- Coralogix
-- Cylus
-- Verbit
-- Plarium
-- Qwilt
-- ReWalk Robotics
-- Melio
-- Arbe
-- CyCognito
-- Noogata
-- Windward
-- Innovid
 
 ---
