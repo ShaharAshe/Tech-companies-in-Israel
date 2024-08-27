@@ -84,5 +84,6 @@
 - [Foresight Autonomous Holdings](https://www.foresightauto.com/careers/)
 - [ARM Holdings](https://careers.arm.com/)
 - [BioCatch](https://www.biocatch.com/cybersecurity-careers)
+- [workiz](https://www.workiz.com/careers/)
 
 ---
