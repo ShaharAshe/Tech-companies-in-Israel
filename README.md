@@ -86,5 +86,6 @@
 - [BioCatch](https://www.biocatch.com/cybersecurity-careers)
 - [workiz](https://www.workiz.com/careers/)
 - [365scores](https://corporate.365scores.com/careers/)
+- [MyHeritage](https://careers.myheritage.com/)
 
 ---
