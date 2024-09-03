@@ -64,7 +64,7 @@
 - [Moovit](https://moovit.com/careers/)
 - [Texas Instruments](https://careers.ti.com/)
 - [Autodesk](https://www.autodesk.com/careers/)
-- [PTC](https://www.ptc.com/en/careers)
+- [PTC](https://www.ptc.com/en/creers)
 - [Fortinet](https://www.fortinet.com/corporate/careers)
 - [F5 Networks](https://www.f5.com/company/careers)
 - [CrowdStrike](https://www.crowdstrike.com/careers/)
@@ -87,5 +87,10 @@
 - [workiz](https://www.workiz.com/careers/)
 - [365scores](https://corporate.365scores.com/careers/)
 - [MyHeritage](https://careers.myheritage.com/)
+- [Innovid](https://www.innovid.com/about/#careers)
+- [Windward](https://windward.ai/company/careers/)
+- [Noogata](https://noogata.com/careers/)
+- [CyCognito](https://www.cycognito.com/company/careers.php)
+- [Arbe](https://arberobotics.com/career/)
 
 ---
