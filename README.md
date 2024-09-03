@@ -92,5 +92,8 @@
 - [Noogata](https://noogata.com/careers/)
 - [CyCognito](https://www.cycognito.com/company/careers.php)
 - [Arbe](https://arberobotics.com/career/)
+- [Melio](https://careers.meliopayments.com/)
+- [Qwilt](https://www.qwilt.com/careers/)
+- [Plarium](https://company.plarium.com/en/career/)
 
 ---
