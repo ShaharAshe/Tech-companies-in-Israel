@@ -95,5 +95,15 @@
 - [Melio](https://careers.meliopayments.com/)
 - [Qwilt](https://www.qwilt.com/careers/)
 - [Plarium](https://company.plarium.com/en/career/)
+- [Cylus](https://www.cylus.com/career)
+- [Coralogix](https://coralogix.com/careers/)
+- [Hailo](https://hailo.ai/company-overview/careers/)
+- [Forter](https://www.forter.com/careers/)
+- [BigID](https://bigid.com/company/careers/)
+- [NSO Group](https://www.nsogroup.com/jobs/)
+- [BigPanda](https://www.bigpanda.io/company/panda-way/jobs/)
+- [Checkmarx](https://checkmarx.com/company/careers/)
+- [Orca Security](https://orca.security/about/careers/)
+- [StoreDot](https://www.store-dot.com/careers)
 
 ---
