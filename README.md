@@ -105,5 +105,11 @@
 - [Checkmarx](https://checkmarx.com/company/careers/)
 - [Orca Security](https://orca.security/about/careers/)
 - [StoreDot](https://www.store-dot.com/careers)
+- [Bizzabo](https://www.bizzabo.com/careers)
+- [DriveNets](https://drivenets.com/careers/)
+- [Nexar](https://careers.getnexar.com/)
+- [Trigo Retail](https://www.trigoretail.com/careers/)
+- [Aidoc](https://www.aidoc.com/about/careers/)
+- [Taranis](https://www.taranis.com/careers/)
 
 ---
