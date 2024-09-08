@@ -111,5 +111,15 @@
 - [Trigo Retail](https://www.trigoretail.com/careers/)
 - [Aidoc](https://www.aidoc.com/about/careers/)
 - [Taranis](https://www.taranis.com/careers/)
+- [keshet](https://jobs.keshet-mediagroup.com/)
+- [SimilarTech](https://www.similartech.com/careers)
+- [Aqua Security](https://www.aquasec.com/about-us/careers/)
+- [Apiiro](https://apiiro.com/careers/)
+- [OpenWeb](https://www.openweb.com/careers/)
+- [Arbe Robotics](https://arberobotics.com/career/)
+- [NeuroBlade](https://www.neuroblade.com/careers/)
+- [Sapiens](https://careers.sapiens.com/)
+- [InSightec](https://insightec.com/careers/)
+- [Tufin](https://www.tufin.com/careers)
 
 ---
