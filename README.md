@@ -121,5 +121,6 @@
 - [Sapiens](https://careers.sapiens.com/)
 - [InSightec](https://insightec.com/careers/)
 - [Tufin](https://www.tufin.com/careers)
+- [Wiz](https://www.wiz.io/careers)
 
 ---
