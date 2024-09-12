@@ -122,5 +122,13 @@
 - [InSightec](https://insightec.com/careers/)
 - [Tufin](https://www.tufin.com/careers)
 - [Wiz](https://www.wiz.io/careers)
+- [Fundbox](https://fundbox.com/careers/)
+- [Cato Networks](https://www.catonetworks.com/careers/)
+- [Cybereason](https://www.cybereason.com/company/careers)
+- [Tipalti](https://tipalti.com/careers/)
+- [Vayyar Imaging](https://apply.workable.com/vayyar/)
+- [Gong.io](https://www.gong.io/careers/)
+- [JoyTunes](https://www.hellosimply.com/careers)
+- [Papaya Global](https://www.papayaglobal.com/careers/)
 
 ---
