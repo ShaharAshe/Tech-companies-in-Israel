@@ -130,5 +130,12 @@
 - [Gong.io](https://www.gong.io/careers/)
 - [JoyTunes](https://www.hellosimply.com/careers)
 - [Papaya Global](https://www.papayaglobal.com/careers/)
+- [Optimove](https://www.optimove.com/careers)
+- [Verint](https://www.verint.com/careers/)
+- [Duda](https://www.duda.co/es/careers)
+- [team8](https://team8.vc/careers/)
+- [Rapyd](https://www.rapyd.net/company/careers/)
+- [AppsFlyer](https://careers.appsflyer.com/)
+- [mend](https://www.mend.io/careers/)
 
 ---
