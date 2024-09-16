@@ -138,5 +138,6 @@
 - [AppsFlyer](https://careers.appsflyer.com/)
 - [mend](https://www.mend.io/careers/)
 - [greenroad](https://greenroad.com/careers/)
+- [TriEye](https://trieye.tech/careers/)
 
 ---
