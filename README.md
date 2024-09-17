@@ -139,5 +139,13 @@
 - [mend](https://www.mend.io/careers/)
 - [greenroad](https://greenroad.com/careers/)
 - [TriEye](https://trieye.tech/careers/)
+- [Gloat](https://gloat.com/careers/)
+- [Innoviz Technologies](https://innoviz.tech/careers)
+- [ThetaRay](https://www.thetaray.com/careers/)
+- [Perion Network](https://perion.com/careers/)
+- [Redis Labs](https://redis.io/careers/)
+- [Kaltura](https://corp.kaltura.com/company/careers/)
+- [Varonis](https://www.varonis.com/careers)
+- [Snyk](https://snyk.io/careers/)
 
 ---
