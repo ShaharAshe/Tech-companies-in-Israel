@@ -38,7 +38,7 @@
 - [Sisense](https://www.sisense.com/careers/)
 - [Monday.com](https://monday.com/careers)
 - [OrCam](https://orcam.recruitee.com/)
-- [Via Transportation](https://ridewithvia.com/careers/jobs)
+- [Via](https://ridewithvia.com/careers/jobs)
 - [Viber](https://www.viber.com/en/careers-israel/)
 - [Philips](https://www.careers.philips.com/)
 - [Western Digital](https://jobs.westerndigital.com/)
@@ -116,7 +116,6 @@
 - [Aqua Security](https://www.aquasec.com/about-us/careers/)
 - [Apiiro](https://apiiro.com/careers/)
 - [OpenWeb](https://www.openweb.com/careers/)
-- [Arbe Robotics](https://arberobotics.com/career/)
 - [NeuroBlade](https://www.neuroblade.com/careers/)
 - [Sapiens](https://careers.sapiens.com/)
 - [InSightec](https://insightec.com/careers/)
@@ -126,7 +125,7 @@
 - [Cato Networks](https://www.catonetworks.com/careers/)
 - [Cybereason](https://www.cybereason.com/company/careers)
 - [Tipalti](https://tipalti.com/careers/)
-- [Vayyar Imaging](https://apply.workable.com/vayyar/)
+- [Vayyar](https://apply.workable.com/vayyar/)
 - [Gong.io](https://www.gong.io/careers/)
 - [JoyTunes](https://www.hellosimply.com/careers)
 - [Papaya Global](https://www.papayaglobal.com/careers/)
@@ -147,5 +146,7 @@
 - [Kaltura](https://corp.kaltura.com/company/careers/)
 - [Varonis](https://www.varonis.com/careers)
 - [Snyk](https://snyk.io/careers/)
+- [Glassbox](https://www.glassbox.com/careers/)
+- [skai](https://skai.io/company/careers/)
 
 ---
