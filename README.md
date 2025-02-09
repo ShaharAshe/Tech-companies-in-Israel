@@ -1,6 +1,13 @@
 
 ---
 
+**Placement companies**
+- [Nisha](https://www.nisha.co.il/)
+- [Ethosia](https://ethosia.co.il/)
+
+---
+
+**Tech companies**
 - [Google](https://careers.google.com/)
 - [Microsoft](https://careers.microsoft.com/)
 - [Apple](https://www.apple.com/careers/)
