@@ -171,5 +171,9 @@
 - [Silverfort](https://www.silverfort.com/careers/)
 - [Placer.ai](https://www.placer.ai/company/we-are-hiring)
 - [SafeBreach](https://www.safebreach.com/careers/)
+- [Oracle](https://www.oracle.com/il-en/careers/)
+- [Siemens](https://jobs.siemens.com/careers)
+- [Applied Materials](https://www.appliedmaterials.com/us/en/careers.html)
+- [TikTok](https://lifeattiktok.com/)
 
 ---
