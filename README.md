@@ -175,5 +175,13 @@
 - [Siemens](https://jobs.siemens.com/careers)
 - [Applied Materials](https://www.appliedmaterials.com/us/en/careers.html)
 - [TikTok](https://lifeattiktok.com/)
+- [Playtech](https://www.playtechpeople.com/)
+- [Synamedia](https://www.synamedia.com/careers/)
+- [Aerospike](https://aerospike.com/careers/)
+- [plaxidityx](https://plaxidityx.com/company/careers/)
+- [Bringg](https://www.bringg.com/careers/)
+- [Intsights](https://careers.rapid7.com/)
+- [Atera](https://www.atera.com/careers/)
+- [Elementor](https://elementor.careers/explore/)
 
 ---
