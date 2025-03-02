@@ -183,5 +183,9 @@
 - [Intsights](https://careers.rapid7.com/)
 - [Atera](https://www.atera.com/careers/)
 - [Elementor](https://elementor.careers/explore/)
+- [Aleph Farms](https://aleph-farms.com/careers/)
+- [Eko](https://eko.com/careers/)
+- [Immunai](https://www.immunai.com/careers/)
+- [Bright Data](https://brightdata.com/careers/)
 
 ---
